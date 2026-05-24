@@ -1,2 +1,2 @@
-# Chinese-Translator-
+# Chinese-Translator
 aa
