@@ -1,2 +1,3 @@
 # Chinese-Translator
-Translates english sentences into chinese words by reading from within a .txt file parsing the values contained within the .txt and mapping the values to what is contained within the inputted english sentences. 
+
+Translates english sentences into chinese words by extracting the associated values from within a .txt file and parsing the values contained within the .txt, which follows the ("dictionary" structure w/ the key and the value) by mapping the sentences input by the user to what is contained within the .txt file for translation using python.
