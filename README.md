@@ -1,3 +1,18 @@
-# Chinese-Translator
+# Chinese Translator
 
-Translates english sentences into chinese words by extracting the associated values from within a .txt file and parsing the values contained within the .txt, which follows the ("dictionary" structure w/ the key & the value) by mapping the sentences input by the user to what is contained within the .txt file for translation using python.
+This is a Python translator program that translates English words into Chinese using a text file as a dictionary.
+
+The program reads key-value pairs from a `.txt` file, stores the data, and then matches the user's input to the available translations. I built this to practice file handling, dictionaries, and working with external data in Python.
+
+## Concepts Practiced
+
+- Python
+- File handling
+- Dictionaries
+- Key-value pairs
+- User input
+- Text parsing
+
+## What I Learned
+
+This project helped me understand how programs can use outside files as data sources instead of hardcoding everything directly into the script.
